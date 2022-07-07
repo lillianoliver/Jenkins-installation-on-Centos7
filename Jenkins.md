@@ -1,6 +1,6 @@
 #!/bin/bash
-# Author : Geovanie I.
-# Date : 04/02/2022
+# Author : Lillian
+# Date : 07/02/2022
 # Description : Jenkins Installation on Centos7
 
 echo "Step 1: Install Java"
